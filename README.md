@@ -1,6 +1,5 @@
 # my-kde-plasma-theme
-My personal KDE Plasma theme, which is essentially Layan with Catppuccin Mocha colors and Breeze-style window buttons.<br>
-I also fixed compatibility with Burn-My-Windows and Wobbly Windows.
+My personal KDE Plasma theme, which is a collection of aspects from various themes. I start with Layan and a modified version of Catppuccin Mocha. I combine the highlight effect of Layan's window decorations to Breeze-style window buttons which are based on Vivid-Blur-Aurorae-6. Then I remove some translucency effects to fix compatibility with Burn-My-Windows and Wobbly Windows.
 # Preview
 Used with DM Sans font.
 # Installation
